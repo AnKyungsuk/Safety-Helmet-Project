@@ -14,3 +14,4 @@ Django 웹 프레임워크와 YOLOv8 객체 탐지 알고리즘을 결합하여 
 
 <h2>
 * 결과 이미지 <br></h2>
+![result_image_164507](https://github.com/user-attachments/assets/9367a177-167d-4073-a191-ed0f8a3ca0e4)
