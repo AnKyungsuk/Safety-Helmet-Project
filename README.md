@@ -15,4 +15,4 @@ Django 웹 프레임워크와 YOLOv8 객체 탐지 알고리즘을 결합하여 
 <h2>
 * 결과 이미지 <br></h2>
 
-<img src="https://github.com/AnKyungsuk/Safety-Helmet-Project/blob/master/result_image_164507.jpg?raw=true">
+<img src="https://github.com/AnKyungsuk/Safety-Helmet-Project/blob/master/result_image_164507.jpg?raw=true" width=500 height=70>
